@@ -1,0 +1,26 @@
+{
+  "name": "nodeschool-workshoppers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/taha27/nodeschool-workshoppers.git"
+  },
+  "keywords": [
+    "node",
+    "js"
+  ],
+  "author": "Taha Saifuddin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/taha27/nodeschool-workshoppers/issues"
+  },
+  "homepage": "https://github.com/taha27/nodeschool-workshoppers#readme",
+  "dependencies": {
+    "learnyounode": "^3.5.10"
+  }
+}
