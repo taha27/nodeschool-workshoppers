@@ -9,7 +9,7 @@ http.get(process.argv[2], (res) => {
         return console.error(`Request failed.\nStatus Code: ${statusCode}.`);
     }
 
-    // change encoding so the data chunks emitted as Strings
+    // change encoding so the data chunks are emitted as Strings
     res.setEncoding('utf8');
 
     // print each data chunk on a single line
