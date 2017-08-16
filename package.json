@@ -21,6 +21,8 @@
   },
   "homepage": "https://github.com/taha27/nodeschool-workshoppers#readme",
   "dependencies": {
-    "learnyounode": "^3.5.10"
+    "learnyounode": "^3.5.10",
+    "split": "^1.0.1",
+    "through2": "^2.0.3"
   }
 }

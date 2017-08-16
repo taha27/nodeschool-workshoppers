@@ -1,5 +1,5 @@
-# JAVASCRIPTING]
-]
+# JAVASCRIPTING
+
 ## [0: INTRODUCTION](./introduction.js)
 ## [1: VARIABLES](./variables.js)
 ## [2: STRINGS](./strings.js)

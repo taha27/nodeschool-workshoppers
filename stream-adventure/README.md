@@ -1,0 +1,17 @@
+# STREAM ADVENTURE
+
+## [0: BEEP BOOP](./beep_boop.js)
+## [1: MEET PIPE](./meet_pipe.js)
+## [2: INPUT OUTPUT](./input_output.js)
+## [3: TRANSFORM](./transform.js)
+## [4: LINES](./lines.js)
+## [5: CONCAT](./)
+## [6: HTTP SERVER](./)
+## [7: HTTP CLIENT](./)
+## [8: WEBSOCKETS](./)
+## [9: HTML STREAM](./)
+## [10: DUPLEXER](./)
+## [11: DUPLEXER REDUX](./)
+## [12: COMBINER](./)
+## [13: CRYPT](./)
+## [14: SECRETZ](./)
